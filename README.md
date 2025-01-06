@@ -1,16 +1,31 @@
-## Hi there 👋
+## Português
 
-<!--
-**ronaldofojr/ronaldofojr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu objetivo é transformar dados brutos em informações valiosas e auxiliar na resolução de problemas através da Análise de Dados. Contribuindo na tomada de decisões estratégicas mediante construção de relatórios gerenciais analíticos, produzindo insights acionáveis.
+ 
+Busca contínua por conhecimento, espírito de equipe e humildade são os valores norteadores da minha ambiciosa carreira.
 
-Here are some ideas to get you started:
+  
+## English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My goal is to transform raw data into valuable information and assist in solving problems through Data Analysis. Contributing to strategic decision-making through the construction of analytical management reports, producing actionable insights.
+ 
+Continuous search for knowledge, team spirit and humility are the guiding values of my ambitious career.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/ronaldo-oliveira-junior/)
+
+## ⚡ Skills:
+- Análise de Dados
+- Business Intelligence
+- Analytics
+- Dashboards
+- Excel
+- Power BI
+- SQL
+- Metodologias ágeis
+- Scrum
+- Kanban
+- Visualização de dados
+- Banco de Dados
+- PostgreSQL
+- Python
+- DAX
